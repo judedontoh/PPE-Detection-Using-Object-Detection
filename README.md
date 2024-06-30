@@ -20,5 +20,5 @@ We visualized annotated images to understand the distribution and variety of PPE
 ## Model Deployment
 The trained model was successfully deployed on real-time video footage to demonstrate its practical application. As shown in the video below, the model effectively detects helmets and reflectors in dynamic worksite environments, ensuring real-time compliance and safety monitoring.
 
-![Real-Time PPE Detection](path/to/your/Output1-ezgif.com-video-to-gif-converter.gif)
+![Real-Time PPE Detection](Output1-ezgif.com-video-to-gif-converter.gif)
 
