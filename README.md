@@ -18,5 +18,7 @@ Images were annotated using Roboflow, with the original images sourced from an a
 We visualized annotated images to understand the distribution and variety of PPE, analyzed image quality and annotation accuracy, and assessed different worksite conditions and PPE in various scenarios.
 
 ## Model Deployment
-The trained model was deployed on real-time video footage to showcase its practical application. As demonstrated in the video below, the model effectively detects PPE in dynamic worksite environments, ensuring real-time compliance and safety monitoring.
+The trained model was successfully deployed on real-time video footage to demonstrate its practical application. As shown in the video below, the model effectively detects helmets and reflectors in dynamic worksite environments, ensuring real-time compliance and safety monitoring.
+
+![Real-Time PPE Detection](path/to/your/Output1-ezgif.com-video-to-gif-converter.gif)
 
