@@ -11,8 +11,6 @@ Ensuring workers wear proper PPE is crucial for safety. Manual checks are often 
 ## Code and Resources Used
 We used Python version 3.8 along with packages such as ultralytics, opencv, numpy, torch, matplotlib, and roboflow. To install the necessary packages, you can use the command `pip install -r requirements.txt`. For more details on YOLOv8, refer to the [YOLOv8 Documentation](https://github.com/ultralytics/yolov8). Detailed steps and findings are available in the provided notebook and additional documentation.
 
-## Data Collection
-Images were annotated using Roboflow, with the original images sourced from an appropriate dataset.
 
 ## Exploratory Data Analysis (EDA)
 We visualized annotated images to understand the distribution and variety of PPE, analyzed image quality and annotation accuracy, and assessed different worksite conditions and PPE in various scenarios.
